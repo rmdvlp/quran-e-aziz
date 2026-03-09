@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093679037666",
+    "project_id": "quran-e-aziz-8ee51",
+    "storage_bucket": "quran-e-aziz-8ee51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093679037666:android:5274e4ac713c997189b2bb",
+        "android_client_info": {
+          "package_name": "com.example.quran_aziz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkh15gWOeUWu8wVStfq0Jm7SOxQwOs_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
