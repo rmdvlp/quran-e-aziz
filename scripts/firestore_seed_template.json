@@ -1,0 +1,76 @@
+{
+  "quotesImages": {
+    "mHSlN67s3G910ChbUC9N": {
+      "image1": "https://example.com/quotes/1.jpg",
+      "image2": "https://example.com/quotes/2.jpg"
+    }
+  },
+  "quran-e-aziz": {
+    "Parah-1": {
+      "name": "Parah 1",
+      "documentId": "Parah-1",
+      "timestamp": 1700000000000,
+      "image-1": "BASE64_OR_IMAGE_URL_HERE",
+      "image-2": "BASE64_OR_IMAGE_URL_HERE"
+    }
+  },
+  "serat-ul-Nabi": {
+    "J9reqGaAxCrPfEL0yWzn": {
+      "sarat-ul-NabiUrl": "https://example.com/pdfs/serat-ul-nabi.pdf"
+    }
+  },
+  "duaKhatmulQuran": {
+    "dH2pcMF6R7eO70n9Ipdk": {
+      "duaKhatmulQuranUrl": "https://example.com/images/dua-khatmul-quran.jpg"
+    }
+  },
+  "ahadiths": {
+    "صحیح بخاری": {
+      "hadithImage": "https://example.com/hadith/bukhari.jpg",
+      "timestamp": 1700000001000
+    },
+    "صحیح مسلم": {
+      "hadithImage": "https://example.com/hadith/muslim.jpg",
+      "timestamp": 1700000002000
+    },
+    "سنن ترمذی": {
+      "hadithImage": "https://example.com/hadith/tirmizi.jpg",
+      "timestamp": 1700000003000
+    }
+  },
+  "sahiBukhari": {
+    "whQsi9ZLDeped4HZMDZY": {
+      "sahiBukhariUrl": "https://example.com/pdfs/sahi-bukhari.pdf"
+    }
+  },
+  "sahiMuslim": {
+    "VyoFNGWcPGh4HQB2HXz2": {
+      "sahiMuslimUrl": "https://example.com/pdfs/sahi-muslim.pdf"
+    }
+  },
+  "jamiaTirmizi": {
+    "XhFhCTyFO8FAEU3a65vl": {
+      "jamiaTirmiziUrl": "https://example.com/pdfs/jamia-tirmizi.pdf"
+    }
+  },
+  "fastingDua": {
+    "oUcKxaepnGQMHqmeCK6R": {
+      "fastingDuaUrl": "https://example.com/images/fasting-dua.jpg"
+    }
+  },
+  "hajj-o-umrah": {
+    "n1Y0YUeBk4AqLTW8V21c": {
+      "hajj-o-umrahUrl": "https://example.com/pdfs/hajj-umrah.pdf"
+    }
+  },
+  "nmaz-e-janaza": {
+    "POVb3J9VlrDNLRdf0FJo": {
+      "nmaz-e-jnazaUrl": "https://example.com/images/namaz-e-janaza.jpg"
+    }
+  },
+  "hazratBioGraphy": {
+    "eAPwInOypx53eNi5MlP3": {
+      "bioGraphyUrl": "https://example.com/pdfs/biography.pdf"
+    }
+  }
+}
